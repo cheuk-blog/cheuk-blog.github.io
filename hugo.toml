@@ -7,3 +7,7 @@ path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
 [params]
   contentDir = "posts"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
