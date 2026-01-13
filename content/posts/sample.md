@@ -5,11 +5,8 @@ draft: false                  # 改成 false 才會正式顯示
 description: "這是一篇簡單的範例文章，用來測試 Hugo Stack 主題是否正常顯示內容。"
 slug: "sample-post"           # 可選，自訂網址（不設會用檔名）
 categories:
-  - 測試
-  - Hugo
 tags:
-  - stack-theme
-  - 範例
+  - 有 AI
 featuredImage: "/images/sample-cover.jpg"   # 可選，文章封面圖（放在 static/images/ 資料夾）
 featuredImagePreview: "/images/sample-preview.jpg"  # 可選，列表預覽小圖
 toc: true                     # 是否顯示目錄（預設 true）
