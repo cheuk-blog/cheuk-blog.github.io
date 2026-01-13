@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="zh-tw" dir="ltr">
     <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="twejij s ns sjknsr gjsjofokwEFfejaokaf\n">
-<title></title>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="這是一篇簡單的範例文章，用來測試 Hugo Stack 主題是否正常顯示內容。">
+<title>這是我的第一篇測試文章</title>
 
-<link rel='canonical' href='http://localhost:1313/posts/hellohello/'>
+<link rel='canonical' href='http://localhost:1313/posts/sample-post/'>
 
-<link rel="stylesheet" href="/scss/style.min.833d6eed45de56f48306bf57268d5b8cdfc8a60e8e7bdc99810464fcd033f7c6.css"><meta property='og:title' content="">
-<meta property='og:description' content="twejij s ns sjknsr gjsjofokwEFfejaokaf\n">
-<meta property='og:url' content='http://localhost:1313/posts/hellohello/'>
+<link rel="stylesheet" href="/scss/style.min.833d6eed45de56f48306bf57268d5b8cdfc8a60e8e7bdc99810464fcd033f7c6.css"><meta property='og:title' content="這是我的第一篇測試文章">
+<meta property='og:description' content="這是一篇簡單的範例文章，用來測試 Hugo Stack 主題是否正常顯示內容。">
+<meta property='og:url' content='http://localhost:1313/posts/sample-post/'>
 <meta property='og:site_name' content='Cheuk-Blog'>
-<meta property='og:type' content='article'><meta property='article:section' content='Posts' />
-<meta name="twitter:title" content="">
-<meta name="twitter:description" content="twejij s ns sjknsr gjsjofokwEFfejaokaf\n">
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='stack-theme' /><meta property='article:tag' content='範例' /><meta property='article:published_time' content='2026-01-12T15:30:00&#43;08:00'/><meta property='article:modified_time' content='2026-01-12T15:30:00&#43;08:00'/>
+<meta name="twitter:title" content="這是我的第一篇測試文章">
+<meta name="twitter:description" content="這是一篇簡單的範例文章，用來測試 Hugo Stack 主題是否正常顯示內容。">
     </head>
     <body class="
     article-page
@@ -146,12 +146,28 @@
 
     <div class="article-details">
     
+    <header class="article-category">
+        
+            <a href="/categories/%E6%B8%AC%E8%A9%A6/" >
+                測試
+            </a>
+        
+            <a href="/categories/hugo/" >
+                Hugo
+            </a>
+        
+    </header>
+    
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/posts/hellohello/"></a>
+            <a href="/posts/sample-post/">這是我的第一篇測試文章</a>
         </h2>
     
+        
+        <h3 class="article-subtitle">
+            這是一篇簡單的範例文章，用來測試 Hugo Stack 主題是否正常顯示內容。
+        </h3>
         
     </div>
 
@@ -160,6 +176,19 @@
     
     
     <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published" datetime='2026-01-12T15:30:00&#43;08:00'>Jan 12, 2026</time>
+            </div>
         
 
         
@@ -188,13 +217,43 @@
     <section class="article-content">
     
     
-    <p>twejij s ns sjknsr gjsjofokwEFfejaokaf</p>
-
+    <h2 id="歡迎來到我的部落格">歡迎來到我的部落格！
+</h2><p>這是一篇用 Markdown 寫的範例文章，Stack 主題支援豐富的 Markdown 語法。</p>
+<h3 id="一些常用格式示範">一些常用格式示範
+</h3><p><strong>粗體</strong>、<em>斜體</em>、<del>刪除線</del></p>
+<blockquote>
+<p>這是一段引用文字</p>
+</blockquote>
+<ul>
+<li>無序清單項目 1</li>
+<li>項目 2
+<ul>
+<li>子項目</li>
+</ul>
+</li>
+</ul>
+<ol>
+<li>有序清單 1</li>
+<li>有序清單 2</li>
+</ol>
+<p><code>inline code</code> 範例</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#75715e"># 程式碼區塊範例</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">hello_world</span>():
+</span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">&#34;Hello, Hugo Stack!&#34;</span>)
+</span></span></code></pre></div>
 </section>
 
 
     <footer class="article-footer">
     
+    <section class="article-tags">
+        
+            <a href="/tags/stack-theme/">Stack-Theme</a>
+        
+            <a href="/tags/%E7%AF%84%E4%BE%8B/">範例</a>
+        
+    </section>
+
 
     </footer>
 
