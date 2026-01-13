@@ -1,3 +1,5 @@
 ---
-title: 文章
+title: '| 文章 |'
+layout: page    
+type: 
 ---

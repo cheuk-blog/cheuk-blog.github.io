@@ -1,7 +1,13 @@
 ---
-title: "測試首頁"
+title: "Home"
+layout: "profile"
 ---
 
-# 這應該要出現嗎？？？
+# Welcome to My Blog!
 
-這裡是正文內容。
+This is my personal space where I share thoughts and ideas.
+
+## Recent Highlights
+
+- Check out my latest article on [Topic Name](/posts/slug/)
+- Learn more about me in the [About](/about/) section

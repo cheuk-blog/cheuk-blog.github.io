@@ -1,0 +1,77 @@
+{{ $pages := where site.RegularPages "Type" "in" "posts" }}
+{{ $posts := first 5 $pages }}
+
+{{ if $posts }}
+<div class="embedded-posts">
+  {{ range $index, $element := $posts }}
+  <article class="embedded-post">
+    <header class="post-header">
+      <h2 class="post-title">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h2>
+      <div class="post-meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "2006年1月2日" }}
+        </time>
+      </div>
+    </header>
+    
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+    
+    <footer class="post-footer">
+      <a href="{{ .RelPermalink }}" class="read-full">閱讀完整文章 →</a>
+    </footer>
+    
+    <!-- 简单的分隔线 -->
+    {{ if lt $index (sub (len $posts) 1) }}
+    <hr class="post-divider">
+    {{ end }}
+  </article>
+  {{ end }}
+</div>
+
+<style>
+.embedded-posts {
+  margin-top: 40px;
+}
+
+.embedded-post {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+}
+
+.post-divider {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, 
+    transparent, 
+    #ddd 20%, 
+    #aaa 50%, 
+    #ddd 80%, 
+    transparent
+  );
+  margin: 50px 0;
+}
+
+/* 其他基本样式 */
+.post-header {
+  margin-bottom: 20px;
+}
+
+.post-title {
+  margin: 0 0 10px 0;
+}
+
+.post-meta {
+  color: #666;
+  font-size: 0.9em;
+}
+
+.read-full {
+  color: #0077cc;
+  text-decoration: none;
+}
+</style>
+{{ end }}

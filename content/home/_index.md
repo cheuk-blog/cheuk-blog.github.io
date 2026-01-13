@@ -1,12 +1,10 @@
 ---
-title: 首頁
+title: '| 首頁 |'
+layout: single
+type: page
 ---
 
-# 所有文章
+# 歡迎來到我的部落格
+- 最新文章會出現在下方列表
 
-{{ range where .Site.RegularPages "Section" "posts" }}
-  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  <p><small>{{ .Date.Format "2006年1月2日" }}</small></p>
-  <p>{{ .Summary | safeHTML }}</p>
-  <hr>
-{{ end }}
+{{< recent-posts >}}
