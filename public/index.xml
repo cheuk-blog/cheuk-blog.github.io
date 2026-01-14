@@ -1,30 +1,99 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Home on Cheuk 的部落格</title>
-        <link>https://cheuk-blog.github.io/</link>
-        <description>Recent content in Home on Cheuk 的部落格</description>
+        <title>Cheuk 的部落格</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on Cheuk 的部落格</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Tue, 13 Jan 2026 11:43:28 +0800</lastBuildDate><atom:link href="https://cheuk-blog.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Jan 2026 16:07:14 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>儀式感</title>
+        <link>http://localhost:1313/posts/sense-of-ritual/</link>
+        <pubDate>Wed, 14 Jan 2026 16:07:14 +0800</pubDate>
+        
+        <guid>http://localhost:1313/posts/sense-of-ritual/</guid>
+        <description>&lt;p&gt;example of travel, and 層層遞進 ( needing to credit back)
+ativity - give sense of ritual, better to another world
+諷刺 juicero&lt;/p&gt;
+&lt;p&gt;example of doreamon door
+比喻 MIND 旅行&lt;/p&gt;
+&lt;p&gt;call to action
+read book example&lt;/p&gt;
+&lt;p&gt;maybe 投稿 to wiwi&lt;/p&gt;
+&lt;p&gt;靈感：一個關於旅行哲學的講座&lt;br&gt;
+延伸閱讀：&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=luMGjQTFzwo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;為什麼要去旅行？ - 廣東話＋字幕&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;
+&lt;a class=&#34;link&#34; href=&#34;mailto:cheukblog@protonmail.com&#34; &gt;cheukblog@protonmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>不想的早起</title>
+        <link>http://localhost:1313/posts/wake-up-early/</link>
+        <pubDate>Wed, 14 Jan 2026 15:22:31 +0800</pubDate>
+        
+        <guid>http://localhost:1313/posts/wake-up-early/</guid>
+        <description>&lt;p&gt;現在有很多方法可以讓自己早起的方法，像是最簡單的手機鬧鐘、用氣味啊（對，有）或者把手機放遠點都有效，不過其實都很看人。依我看啊，這些方法一早都過時了啦，倒不如直接住在每週六天會準時八點開始施工到六點（有時更遲哦）的建築地盤還更來得實際呢！&lt;/p&gt;
+&lt;p&gt;往了大學的宿舍快五個月呢，而這&lt;/p&gt;
+&lt;p&gt;延伸閱讀: &lt;a class=&#34;link&#34; href=&#34;https://zh.wikipedia.org/wiki/Umarell&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Umarell（喜歡看工地的老人的現象）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;
+&lt;a class=&#34;link&#34; href=&#34;mailto:cheukblog@protonmail.com&#34; &gt;cheukblog@protonmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Juicero</title>
+        <link>http://localhost:1313/posts/juicero/</link>
+        <pubDate>Wed, 14 Jan 2026 13:58:01 +0800</pubDate>
+        
+        <guid>http://localhost:1313/posts/juicero/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/0/0b/Peering_into_the_Black_Box%2C_Revisited_%2844738147682%29_-_Disassembled_Juicero_Press.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;alt text&#34;
+	
+	
+&gt;
+三秒鐘，猜猜看上面的被拆卸的神秘機器是什麼。&lt;/p&gt;
+&lt;p&gt;猜完了嗎？這看起來如此精秘的機器，有那麼多零件和又有電路板，其實就只是個果汁機，對，就是部果汁機，叫 &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Juicero&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Juicero&lt;/a&gt;，來自矽谷，而左下角的電路板是為了連接 WI-FI 和專有的 APP ，好高級！最棒的是，當每次想飲果汁的時候，都需要買專屬的果汁包，SCAN 上面的 QR CODE ，「目的」是為了 SCAN 看看果汁包有沒有過期（就只是 SCAN 日期）、是不是自家的果汁包和最重要的，傳送回伺服器，然後讓使用者的體驗更好！&lt;/p&gt;
+&lt;p&gt;那麼，有如此黑魔法的果汁機要多少錢啊？—— 400 美金，果汁包每杯 5 美金。&lt;/p&gt;
+&lt;p&gt;哈？ 400 美金？好像比我的手機更貴了啊！而且，它不就只是一部果汁機，還需要 WI-FI 連接耶 WTF？沒有網絡，沒有果汁飲。更好笑的是，一家新聞平台&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=5lutHF5HhVA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;測試了&lt;/a&gt;竟然用手揸果汁包就可以讓果汁出來了（還更快！），根本不需要 400 美金的機器。當然，很快的，報道一出來，公司就被炎上了，並且於 2017年12月1日停止經營。&lt;/p&gt;
+&lt;p&gt;現在看回這一個荒謬的故事，我想了想，其實市面上有很多的家電都會有自己的專有 APP （你也看看你手機有沒有），像最近想買空氣淨化器，它就有（當然沒買），或者是冰箱。甚或乎，最近 AI 的掘起都產生了不少「多餘」的功能。但，我們真的需要嗎？&lt;/p&gt;
+&lt;p&gt;再遠一點啦，我看看現在有那麼多「高科技」（例如自動榨汁）的新發明被發明出來，但似乎最關心人的福祉、減少痛苦的發明卻少之有少呢。啊⋯⋯，所以說到底⋯⋯，誰．可以發明一個可以完全阻隔&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/wake-up-early/&#34; &gt;地盤噪音&lt;/a&gt;或者減少噪者的裝置，好嘈啊！！！&lt;del&gt;（對，其實就只是篇抱怨文）&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;靈感：YT 上的廢片&lt;br&gt;
+延伸閱讀： &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=PCRx78Zhj7s&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;penguiz0 很好笑的 Review&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;
+&lt;a class=&#34;link&#34; href=&#34;mailto:cheukblog@protonmail.com&#34; &gt;cheukblog@protonmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>信仰帶來的責任</title>
-        <link>https://cheuk-blog.github.io/posts/responsibility-belief/</link>
+        <link>http://localhost:1313/posts/responsibility-belief/</link>
         <pubDate>Tue, 13 Jan 2026 11:43:28 +0800</pubDate>
         
-        <guid>https://cheuk-blog.github.io/posts/responsibility-belief/</guid>
+        <guid>http://localhost:1313/posts/responsibility-belief/</guid>
         <description>&lt;p&gt;想像一下你是一名足球員﹐你們所面對的隊伍是學界最強的一間中學 ﹐你相信你們「我們一定會勝的！」﹐但理性客觀上你們的勝利機會幾乎等於0。另外﹐也想像一下﹐你是一位有絕症的病人﹐神父告訴你神會給你上天堂﹐你會信嗎？兩種情況﹐我想大部分的人應該都選擇相信﹐當然相信啊! 不過﹐前者的例子對社會是無關痛癢﹐後者的例子卻可能會對其他人造成影響﹐病人可能難一些啦﹐但如果是一個普通人的話﹐令其他人開始相信非常的簡單。一位病人的信仰就只是他自己私事﹐但一群人的信仰呢？一個信仰已不再是私事的時候﹐宗教戰爭和其他爭議很簡單隨之出現﹐而一開始可能就只是幾位敎徒的信仰﹐多麼恐怕啊！&lt;/p&gt;
 &lt;p&gt;扯了有點遠呢﹐其實除了宗教的信仰﹐日常生活的信仰也許也會影響到別人﹐對於自由軟體的信仰、對於某某明星的信仰或是樓下早餐店的蛋餅是最好食的信仰﹐這一些都是一些信仰﹐可能正確﹐也可能沒有標準答案﹐而說出來之前就只是私事罷了﹐不過如果說出來呢？尤其是在一些社交媒體上﹐今天打了一句「我樓下早餐店的蛋餅是最好食!」﹐明天如果可能就大排長龍了﹐如此荒謬的事情其實現實也會&lt;a class=&#34;link&#34; href=&#34;https://evchk.fandom.com/zh/wiki/%e5%a4%a7%e5%af%b6%e5%86%b0%e5%ae%a4%e6%bd%ae%e6%96%87&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;發生&lt;/a&gt; 過﹐它就像病毒一發不可收拾﹐而想想如果那不是蛋餅﹐是其他更更恐怕的會損害社會的東西呢？&lt;/p&gt;
-&lt;p&gt;延伸閱讀: &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=CH7gtcfC5tM&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;真假信念有對錯？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;靈感：下面的哲學 Podcast&lt;br&gt;
+延伸閱讀: &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=CH7gtcfC5tM&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;真假信念有對錯？ - 廣東話＋字幕&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;mailto:cheukblog@protonmail.com&#34; &gt;cheukblog@protonmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>這是我的第一篇測試文章</title>
-        <link>https://cheuk-blog.github.io/posts/sample-post/</link>
+        <link>http://localhost:1313/posts/sample-post/</link>
         <pubDate>Mon, 12 Jan 2026 15:30:00 +0800</pubDate>
         
-        <guid>https://cheuk-blog.github.io/posts/sample-post/</guid>
+        <guid>http://localhost:1313/posts/sample-post/</guid>
         <description>&lt;h2 id=&#34;歡迎來到我的部落格&#34;&gt;歡迎來到我的部落格！
 &lt;/h2&gt;&lt;p&gt;這是一篇用 Markdown 寫的範例文章，Stack 主題支援豐富的 Markdown 語法。&lt;/p&gt;
 &lt;h3 id=&#34;一些常用格式示範&#34;&gt;一些常用格式示範
@@ -48,25 +117,39 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# 程式碼區塊範例&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Hugo Stack!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(/posts/)
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
         </item>
         <item>
         <title>| 關於 |</title>
-        <link>https://cheuk-blog.github.io/about/</link>
+        <link>http://localhost:1313/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://cheuk-blog.github.io/about/</guid>
+        <guid>http://localhost:1313/about/</guid>
         <description>&lt;h1 id=&#34;hello&#34;&gt;Hello
-&lt;/h1&gt;&lt;p&gt;哈囉，你可以叫我 Cheuk ！那裡放我網上學到的知識（什麼都有）和廢文。&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;哈囉，你可以叫我 Cheuk ！這裡放我網上學到的知識（什麼都有）和廢文。（不含 AI）
+頭像：&lt;a class=&#34;link&#34; href=&#34;https://zh.moegirl.tw/%E6%A9%98%E5%B8%8C%E6%9C%9B&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;橘希望&lt;/a&gt;）&lt;/p&gt;
 &lt;h2 id=&#34;我是誰-&#34;&gt;我是誰 ?
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;電機系的宅男&lt;/li&gt;
+&lt;li&gt;來自香港&lt;/li&gt;
+&lt;li&gt;電機系的宅宅&lt;/li&gt;
 &lt;li&gt;喜歡聽東方 Project 和音遊的音樂&lt;/li&gt;
 &lt;li&gt;努力從 &lt;a class=&#34;link&#34; href=&#34;https://store.steampowered.com/developer/Mediascape/list/154512&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Touhou 8&lt;/a&gt; 打到最新一代&lt;/li&gt;
-&lt;li&gt;愛學樂理和作曲子&lt;/li&gt;
-&lt;li&gt;愛看科學(入門級)、樂理、和看評論影片﹐當然還有一些白痴廢片&lt;/li&gt;
+&lt;li&gt;愛看科學（入門級）、樂理、和看評論影片﹐呃⋯⋯ 還有一些廢片 :p&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;蔚藍檔案的玩家&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;為什麼寫部落格&#34;&gt;為什麼寫部落格？
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://wiwi.blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Wiwi 的影響&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;認識新朋友 :p&lt;/li&gt;
+&lt;li&gt;分享生活&lt;/li&gt;
+&lt;li&gt;不想浪費網上學到的知識&lt;/li&gt;
+&lt;li&gt;分享我覺得好有趣的東西，所以每篇貼文都有延伸閱讀！&lt;/li&gt;
+&lt;li&gt;好玩呀！&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;email-我&#34;&gt;Email 我
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:cheukblog@protonmail.com&#34; &gt;cheukblog@protonmail.com&lt;/a&gt;&lt;/p&gt;

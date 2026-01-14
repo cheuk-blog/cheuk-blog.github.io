@@ -3,8 +3,9 @@ baseURL = 'https://cheuk-blog.github.io/'
 languageCode = 'zh-tw'
 theme = "hugo-theme-stack"
 
-[[module.imports]]
-  path = "github.com/CaiJimmy/hugo-theme-stack/v3"
+[module]
+  [[module.imports]]
+    path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
 # Redirect
 # in layouts/index.html
@@ -12,7 +13,6 @@ theme = "hugo-theme-stack"
 # Side-wide settings
 [params]
   mainsections = ["post"]
-  homelayout = "single"
   favicon = "/favicon.ico"
 
 # Custom Menu
@@ -52,7 +52,7 @@ theme = "hugo-theme-stack"
 
 # Sidebar
 [params.sidebar]
-  emoji = "🔫"
+  emoji = "🚂"
   subtitle = "噗哈哈（パヒャヒャッ！）"
   avatar.enabled = true
   avatar.src = "images/avatar.png"

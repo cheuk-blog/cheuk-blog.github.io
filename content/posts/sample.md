@@ -7,11 +7,6 @@ slug: "sample-post"           # 可選，自訂網址（不設會用檔名）
 categories:
 tags:
   - 含 AI
-featuredImage: "/images/sample-cover.jpg"   # 可選，文章封面圖（放在 static/images/ 資料夾）
-featuredImagePreview: "/images/sample-preview.jpg"  # 可選，列表預覽小圖
-toc: true                     # 是否顯示目錄（預設 true）
-autoCollapseToc: false
-math: false                   # 是否啟用數學公式渲染
 ---
 
 ## 歡迎來到我的部落格！
@@ -37,3 +32,5 @@ math: false                   # 是否啟用數學公式渲染
 # 程式碼區塊範例
 def hello_world():
     print("Hello, Hugo Stack!")
+
+({{< relref "posts/" >}})

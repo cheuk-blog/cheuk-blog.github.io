@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>生活 on Cheuk 的部落格</title>
+        <link>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/</link>
+        <description>Recent content in 生活 on Cheuk 的部落格</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Wed, 14 Jan 2026 15:22:31 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>不想的早起</title>
+        <link>http://localhost:1313/posts/wake-up-early/</link>
+        <pubDate>Wed, 14 Jan 2026 15:22:31 +0800</pubDate>
+        
+        <guid>http://localhost:1313/posts/wake-up-early/</guid>
+        <description>&lt;p&gt;現在有很多方法可以讓自己早起的方法，像是最簡單的手機鬧鐘、用氣味啊（對，有）或者把手機放遠點都有效，不過其實都很看人。依我看啊，這些方法一早都過時了啦，倒不如直接住在每週六天會準時八點開始施工到六點（有時更遲哦）的建築地盤還更來得實際呢！&lt;/p&gt;
+&lt;p&gt;往了大學的宿舍快五個月呢，而這&lt;/p&gt;
+&lt;p&gt;延伸閱讀: &lt;a class=&#34;link&#34; href=&#34;https://zh.wikipedia.org/wiki/Umarell&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Umarell（喜歡看工地的老人的現象）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;
+&lt;a class=&#34;link&#34; href=&#34;mailto:cheukblog@protonmail.com&#34; &gt;cheukblog@protonmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

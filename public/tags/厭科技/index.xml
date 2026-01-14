@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>厭科技 on Cheuk 的部落格</title>
+        <link>http://localhost:1313/tags/%E5%8E%AD%E7%A7%91%E6%8A%80/</link>
+        <description>Recent content in 厭科技 on Cheuk 的部落格</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Wed, 14 Jan 2026 13:58:01 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%8E%AD%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Juicero</title>
+        <link>http://localhost:1313/posts/juicero/</link>
+        <pubDate>Wed, 14 Jan 2026 13:58:01 +0800</pubDate>
+        
+        <guid>http://localhost:1313/posts/juicero/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/0/0b/Peering_into_the_Black_Box%2C_Revisited_%2844738147682%29_-_Disassembled_Juicero_Press.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;alt text&#34;
+	
+	
+&gt;
+三秒鐘，猜猜看上面的被拆卸的神秘機器是什麼。&lt;/p&gt;
+&lt;p&gt;猜完了嗎？這看起來如此精秘的機器，有那麼多零件和又有電路板，其實就只是個果汁機，對，就是部果汁機，叫 &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Juicero&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Juicero&lt;/a&gt;，來自矽谷，而左下角的電路板是為了連接 WI-FI 和專有的 APP ，好高級！最棒的是，當每次想飲果汁的時候，都需要買專屬的果汁包，SCAN 上面的 QR CODE ，「目的」是為了 SCAN 看看果汁包有沒有過期（就只是 SCAN 日期）、是不是自家的果汁包和最重要的，傳送回伺服器，然後讓使用者的體驗更好！&lt;/p&gt;
+&lt;p&gt;那麼，有如此黑魔法的果汁機要多少錢啊？—— 400 美金，果汁包每杯 5 美金。&lt;/p&gt;
+&lt;p&gt;哈？ 400 美金？好像比我的手機更貴了啊！而且，它不就只是一部果汁機，還需要 WI-FI 連接耶 WTF？沒有網絡，沒有果汁飲。更好笑的是，一家新聞平台&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=5lutHF5HhVA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;測試了&lt;/a&gt;竟然用手揸果汁包就可以讓果汁出來了（還更快！），根本不需要 400 美金的機器。當然，很快的，報道一出來，公司就被炎上了，並且於 2017年12月1日停止經營。&lt;/p&gt;
+&lt;p&gt;現在看回這一個荒謬的故事，我想了想，其實市面上有很多的家電都會有自己的專有 APP （你也看看你手機有沒有），像最近想買空氣淨化器，它就有（當然沒買），或者是冰箱。甚或乎，最近 AI 的掘起都產生了不少「多餘」的功能。但，我們真的需要嗎？&lt;/p&gt;
+&lt;p&gt;再遠一點啦，我看看現在有那麼多「高科技」（例如自動榨汁）的新發明被發明出來，但似乎最關心人的福祉、減少痛苦的發明卻少之有少呢。啊⋯⋯，所以說到底⋯⋯，誰．可以發明一個可以完全阻隔&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/wake-up-early/&#34; &gt;地盤噪音&lt;/a&gt;或者減少噪者的裝置，好嘈啊！！！&lt;del&gt;（對，其實就只是篇抱怨文）&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;延伸閱讀: &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=PCRx78Zhj7s&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;penguiz0 很好笑的 Review&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;
+&lt;a class=&#34;link&#34; href=&#34;mailto:cheukblog@protonmail.com&#34; &gt;cheukblog@protonmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
