@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Home on Cheuk 的部落客</title>
-        <link>http://localhost:1313/</link>
-        <description>Recent content in Home on Cheuk 的部落客</description>
+        <title>Home on Cheuk 的部落格</title>
+        <link>https://cheuk-blog.github.io/</link>
+        <description>Recent content in Home on Cheuk 的部落格</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Tue, 13 Jan 2026 11:43:28 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 13 Jan 2026 11:43:28 +0800</lastBuildDate><atom:link href="https://cheuk-blog.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>信仰帶來的責任</title>
-        <link>http://localhost:1313/posts/responsibility-belief/</link>
+        <link>https://cheuk-blog.github.io/posts/responsibility-belief/</link>
         <pubDate>Tue, 13 Jan 2026 11:43:28 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/responsibility-belief/</guid>
+        <guid>https://cheuk-blog.github.io/posts/responsibility-belief/</guid>
         <description>&lt;p&gt;想像一下你是一名足球員﹐你們所面對的隊伍是學界最強的一間中學 ﹐你相信你們「我們一定會勝的！」﹐但理性客觀上你們的勝利機會幾乎等於0。另外﹐也想像一下﹐你是一位有絕症的病人﹐神父告訴你神會給你上天堂﹐你會信嗎？兩種情況﹐我想大部分的人應該都選擇相信﹐當然相信啊! 不過﹐前者的例子對社會是無關痛癢﹐後者的例子卻可能會對其他人造成影響﹐病人可能難一些啦﹐但如果是一個普通人的話﹐令其他人開始相信非常的簡單。一位病人的信仰就只是他自己私事﹐但一群人的信仰呢？一個信仰已不再是私事的時候﹐宗教戰爭和其他爭議很簡單隨之出現﹐而一開始可能就只是幾位敎徒的信仰﹐多麼恐怕啊！&lt;/p&gt;
 &lt;p&gt;扯了有點遠呢﹐其實除了宗教的信仰﹐日常生活的信仰也許也會影響到別人﹐對於自由軟體的信仰、對於某某明星的信仰或是樓下早餐店的蛋餅是最好食的信仰﹐這一些都是一些信仰﹐可能正確﹐也可能沒有標準答案﹐而說出來之前就只是私事罷了﹐不過如果說出來呢？尤其是在一些社交媒體上﹐今天打了一句「我樓下早餐店的蛋餅是最好食!」﹐明天如果可能就大排長龍了﹐如此荒謬的事情其實現實也會&lt;a class=&#34;link&#34; href=&#34;https://evchk.fandom.com/zh/wiki/%e5%a4%a7%e5%af%b6%e5%86%b0%e5%ae%a4%e6%bd%ae%e6%96%87&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;發生&lt;/a&gt; 過﹐它就像病毒一發不可收拾﹐而想想如果那不是蛋餅﹐是其他更更恐怕的會損害社會的東西呢？&lt;/p&gt;
@@ -21,10 +21,10 @@
         </item>
         <item>
         <title>這是我的第一篇測試文章</title>
-        <link>http://localhost:1313/posts/sample-post/</link>
+        <link>https://cheuk-blog.github.io/posts/sample-post/</link>
         <pubDate>Mon, 12 Jan 2026 15:30:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/sample-post/</guid>
+        <guid>https://cheuk-blog.github.io/posts/sample-post/</guid>
         <description>&lt;h2 id=&#34;歡迎來到我的部落格&#34;&gt;歡迎來到我的部落格！
 &lt;/h2&gt;&lt;p&gt;這是一篇用 Markdown 寫的範例文章，Stack 主題支援豐富的 Markdown 語法。&lt;/p&gt;
 &lt;h3 id=&#34;一些常用格式示範&#34;&gt;一些常用格式示範
@@ -52,10 +52,10 @@
         </item>
         <item>
         <title>| 關於 |</title>
-        <link>http://localhost:1313/about/</link>
+        <link>https://cheuk-blog.github.io/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/about/</guid>
+        <guid>https://cheuk-blog.github.io/about/</guid>
         <description>&lt;h1 id=&#34;hello&#34;&gt;Hello
 &lt;/h1&gt;&lt;p&gt;哈囉，你可以叫我 Cheuk ！那裡放我網上學到的知識（什麼都有）和廢文。&lt;/p&gt;
 &lt;h2 id=&#34;我是誰-&#34;&gt;我是誰 ?
