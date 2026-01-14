@@ -1,4 +1,4 @@
-title = "Cheuk 的部落客"
+title = "Cheuk 的部落格"
 baseURL = 'https://cheuk-blog.github.io/'
 languageCode = 'zh-tw'
 theme = "hugo-theme-stack"
@@ -44,7 +44,7 @@ theme = "hugo-theme-stack"
 
   [[menu.social]]
   name = "rss"
-  url = "index.xml"
+  url = "https://cheuk-blog.github.io/posts/index.xml"
   weight = 50
   [menu.social.params]
     icon = "rss"
