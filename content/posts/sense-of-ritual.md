@@ -2,7 +2,7 @@
 date = '2026-01-14T16:07:14+08:00'
 draft = true
 title = '儀式感'
-tags = ['生活']
+tags = ['知識']
 +++
 
 example of travel, and 層層遞進 ( needing to credit back)
@@ -22,5 +22,6 @@ maybe 投稿 to wiwi
 靈感：一個關於旅行哲學的講座\
 延伸閱讀：[為什麼要去旅行？ - 廣東話＋字幕](https://www.youtube.com/watch?v=luMGjQTFzwo)
 
-**Email**
-cheukblog@protonmail.com
+**Email**: cheukblog@protonmail.com
+
+{{< train-terminal >}}

@@ -6,7 +6,7 @@ description: "這是一篇簡單的範例文章，用來測試 Hugo Stack 主題
 slug: "sample-post"           # 可選，自訂網址（不設會用檔名）
 categories:
 tags:
-  - 含 AI
+  - 唯一含 AI 的文章
 ---
 
 ## 歡迎來到我的部落格！

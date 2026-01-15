@@ -2,7 +2,7 @@
 date = '2026-01-14T13:58:01+08:00'
 draft = false
 title = 'Juicero'
-tags = ["厭科技"]
+tags = ["知識"]
 +++
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/0/0b/Peering_into_the_Black_Box%2C_Revisited_%2844738147682%29_-_Disassembled_Juicero_Press.jpg)
@@ -16,10 +16,11 @@ tags = ["厭科技"]
 
 現在看回這一個荒謬的故事，我想了想，其實市面上有很多的家電都會有自己的專有 APP （你也看看你手機有沒有），像最近想買空氣淨化器，它就有（當然沒買），或者是冰箱。甚或乎，最近 AI 的掘起都產生了不少「多餘」的功能。但，我們真的需要嗎？
 
-再遠一點啦，我看看現在有那麼多「高科技」（例如自動榨汁）的新發明被發明出來，但似乎最關心人的福祉、減少痛苦的發明卻少之有少呢。啊⋯⋯，所以說到底⋯⋯，誰．可以發明一個可以完全阻隔地盤噪音或者減少噪者的裝置，好嘈啊！！！~~（對，其實就只是篇抱怨文）~~
+再遠一點啦，我看看現在有那麼多「高科技」（例如自動榨汁）的新發明被發明出來，但似乎最關心人的福祉、減少痛苦的發明卻少之有少呢。啊⋯⋯，所以說到底⋯⋯，誰．可以發明一個可以完全阻隔[地盤噪音]({{< relref "posts/wake-up-early.md" >}})或者減少噪者的裝置，好嘈啊！！！~~（對，其實就只是篇抱怨文）~~
 
 靈感：YT 上的廢片\
-延伸閱讀： [penguiz0 很好笑的 Review](https://www.youtube.com/watch?v=PCRx78Zhj7s)
+延伸閱讀： [penguinz0 很好笑的 Review](https://www.youtube.com/watch?v=PCRx78Zhj7s)
 
-**Email**
-cheukblog@protonmail.com
+**Email**: cheukblog@protonmail.com
+
+{{< train-terminal >}}

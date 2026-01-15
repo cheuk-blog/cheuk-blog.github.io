@@ -1,0 +1,15 @@
+{{ $src := .Get "src" }}
+
+<video 
+  {{ if .Get "controls" }}controls{{ end }} 
+  width="{{ or (.Get "width") "100%" }}" 
+  preload="{{ or (.Get "preload") "auto" }}"
+  {{ if eq (.Get "autoplay") "true" }}autoplay{{ end }}
+  {{ if eq (.Get "loop") "true" }}loop{{ end }}
+  {{ if eq (.Get "muted") "true" }}muted{{ end }}
+  playsinline
+  style="max-width:100%; height:auto;"
+>
+  <source src="{{ $src }}" type="video/webm">
+  你的瀏覽器不支援 video 標籤。
+</video>

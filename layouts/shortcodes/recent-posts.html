@@ -20,10 +20,6 @@
       {{ .Content }}
     </div>
     
-    <footer class="post-footer">
-      <a href="{{ .RelPermalink }}" class="read-full">閱讀完整文章 →</a>
-    </footer>
-    
     <!-- 简单的分隔线 -->
     {{ if lt $index (sub (len $posts) 1) }}
     <hr class="post-divider">

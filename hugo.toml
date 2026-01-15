@@ -1,4 +1,4 @@
-title = "Cheuk 的部落格"
+title = "Cheuk 的部落格 :p"
 baseURL = 'https://cheuk-blog.github.io/'
 languageCode = 'zh-tw'
 theme = "hugo-theme-stack"
@@ -14,6 +14,7 @@ theme = "hugo-theme-stack"
 [params]
   mainsections = ["post"]
   favicon = "/favicon.ico"
+  customCSS = ["css/custom.css"]
 
 # Custom Menu
 [menu]
