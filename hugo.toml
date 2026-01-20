@@ -46,7 +46,7 @@ cleanDestinationDir = true
   [[menu.main]]
       name = "關於"
       url = "/about"
-      weight = 40hg
+      weight = 40
       identifier = "about"
       [menu.main.params]
           icon = "chevron-right"
