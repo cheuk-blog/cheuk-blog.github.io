@@ -13,9 +13,10 @@ lastmod: 2026-01-20
 ### 玩玩玩玩玩
 * 努力從 [Touhou 8](https://store.steampowered.com/developer/Mediascape/list/154512) 打到最新一代
 * ~~蔚藍檔案的玩家~~
+* 蘇菲的錬金工房 2
+
 ### 學學學學學
 * 日文
-* 編曲
 
 ### 看看看看看
 * [好青年荼毒室](https://www.youtube.com/@corrupttheyouthhk)\
